@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+*Note to self: This is a simple YouTube clone that forms the first part of this course. I disabled the YouTube API key that I checked in :) Would need to generate a new one to get this example to work.*
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
